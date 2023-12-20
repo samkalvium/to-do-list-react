@@ -96,18 +96,3 @@ export default class App extends Component {
     )
   }
 }
-
-
-
-// createList = () => {
-// const item = document.getElementById('text-box')
-// return (
-// <React.Fragment>
-// {/* <div> */}
-// {/* <input type="text" name="textBox" id="text-box">{this.item.value}</input> */}
-// {/* <button onClick={this.createList}>Delete Item</button> */}
-// {/* </div> */}
-// {/* </React.Fragment> */}
-// );
-// }
-// 
